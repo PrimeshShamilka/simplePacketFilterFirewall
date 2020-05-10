@@ -17,7 +17,7 @@ socket - low level networking interface
 
 Packets are captured and saved into .pcap or .pcapng files using wireshark. 
 
-## Firewall rules format the program
+## Firewall rules format for the program
 
 ![](https://github.com/PrimeshShamilka/simplePacketFilterFirewall/blob/master/Images/filterin_rules.png)
 
