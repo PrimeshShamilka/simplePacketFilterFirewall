@@ -1,0 +1,4 @@
+rule_id,direction,src_addr,dest_addr,protocol,src_port,dest_port,action
+1,INBOUND,any,any,TCP,80,80,ACCEPT
+2,INBOUND,any,10.1.1.99,UDP,any,any,REJECT
+3,EITHER,any,any,any,any,any,REJECT
