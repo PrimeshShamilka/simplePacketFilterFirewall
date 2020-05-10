@@ -19,7 +19,7 @@ Packets are captured and saved into .pcap or .pcapng files using wireshark.
 
 ## Firewall rules format for the program
 
-![](https://github.com/PrimeshShamilka/simplePacketFilterFirewall/blob/master/Images/filterin_rules.png)
+![](https://github.com/PrimeshShamilka/simplePacketFilterFirewall/blob/master/Images/filtering_rules.png)
 
 ## Output from the program 
 
