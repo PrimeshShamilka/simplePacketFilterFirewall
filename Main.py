@@ -1,3 +1,12 @@
+'''
+   Copyright (c) 2020, Primesh Shamilka,
+   email: primeshs.17@cse.mrt.ac.lk
+   All rights reserved. https://github.com/PrimeshShamilka/
+   
+   Revision history:
+	  May 10th, 2020: initial version.
+'''
+
 import json
 import dpkt
 import socket
